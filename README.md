@@ -5,8 +5,13 @@
 <p align="center">
 <a href="https://github.com/Oggyser">
 </p>
-
   
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://wa.me/919605243185" target="blank"><img align="centre" src="https://img.icons8.com/doodle/48/000000/whatsapp.png" alt="Oggyser" height="30" width="40" /></a>
+</p>
+
+
 ## Things I Code With
 <p>
     <img
