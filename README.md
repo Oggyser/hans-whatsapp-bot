@@ -1,6 +1,6 @@
 ### I'm FXC7BOT Gift Me Stars 🌟 <br><img src="https://i.ibb.co/6N81QKR/20210418-201428.jpg" width="20px">
 <p align="center">
-<a href="https://github.com/Fxc7"><img src="https://raw.githubusercontent.com/Fxc7/termux-bot-wa/main/src/glitchtext.png"></a>
+<a href="https://github.com/Fxc7"><img src="https://i.ibb.co/6N81QKR/20210418-201428.jpg"></a>
 </p>
 <br>
 
