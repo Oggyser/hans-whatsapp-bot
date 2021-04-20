@@ -1,3 +1,4 @@
+### I'm OGGY BOT Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 <p align="center">
 <img src="https://i.ibb.co/6N81QKR/20210418-201428.jpg" alt="20210103-132024" border="0">
 </p>
