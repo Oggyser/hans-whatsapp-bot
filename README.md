@@ -1,33 +1,17 @@
-### I'm FXC7BOT Gift Me Stars 🌟 <br><img src="https://i.ibb.co/6N81QKR/20210418-201428.jpg" width="20px">
 <p align="center">
-<a href="https://github.com/Fxc7"><img src="https://i.ibb.co/6N81QKR/20210418-201428.jpg"></a>
-</p>
-<br>
-
-
-
-<p align="center">
-<a href="#"><img title="termux-bot-wa" src="https://img.shields.io/badge/-TERMUX--BOT--WA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<img src="https://i.ibb.co/6N81QKR/20210418-201428.jpg" alt="20210103-132024" border="0">
 </p>
 <p align="center">
-<a href="https://github.com/Fxc7"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FARHAN-orange?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/Fxc7/followers"><img title="Followers" src="https://img.shields.io/github/followers/Fxc7?color=blue&style=flat-square"></a>
-<a href="https://github.com/Fxc7/termux-bot-wa/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Fxc7/termux-bot-wa?color=red&style=flat-square"></a>
-<a href="https://github.com/Fxc7/termux-bot-wa/network/members"><img title="Forks" src="http://img.shields.io/github/forks/Fxc7/termux-bot-wa?color=red&style=flat-square"></a>
-<a href="https://github.com/Fxc7/termux-bot-wa/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fxc7/termux-bot-wa?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFxc7%2Ftermux-bot-wa&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Support&edge_flat=false"/></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
+<a href="https://github.com/Oggyser">
 </p>
 
-<hr color="black">
-## I am Hungry Your Donate
-<hr color="black">
-
-* [Saweria](https://saweria.co/FarhanXCo)
-* [Trakteer](https://trakteer.id/FarhanXCo)
-
+  
+## Things I Code With
+<p>
+    <img
+        src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+    <img
+        src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
 ## Tools
 
