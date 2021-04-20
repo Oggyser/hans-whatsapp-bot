@@ -37,17 +37,17 @@ Follow The Steps Below!
 > pkg upgrade -y
 > pkg install python -y
 > pkg install git -y
-> git clone https://github.com/Fxc7/termux-bot-wa
+> git clone https://github.com/Oggyser/hans-whatsapp-bot
 > cd termux-bot-wa
 > bash install.sh
-> npm start / node Fxc7.js
+> npm start 
 ```
 
 ## Features
 
 | NEW USER | YES
 | :---------------------------------------------: | :-----------: |
-|  Daftar|✅|
+|  verify|✅|
 
 |  CREATOR  |                                           YES |
 | :---------------------------------------------: | :-----------: |
@@ -172,14 +172,14 @@ Follow The Steps Below!
 | Covid|✅|
 | Gempa Terkini|✅|
 
-| 18+ | YES |
+| 18+ |  NO
 | :-----------------: | :-------: |
-| Random Hentai|✅|
-| NSFW Neko|✅|
-| NSFW Blowjob |✅|
-| NSFW Loli|✅|
-| NSFW Anime|✅|
-| Asupan|✅|
+| Random Hentai|X|
+| NSFW Neko|X|
+| NSFW Blowjob |X|
+| NSFW Loli|X|
+| NSFW Anime|X|
+| Asupan|X|
 
 | OWNER | YES |
 | :-----------------: | :-------: |
@@ -211,7 +211,7 @@ Follow The Steps Below!
 | Snack Video Download|✅|
 | Play Mp3|✅|
 
- TENTANG BOT | YES |
+OGGY  BOT | YES |
 | :-----------------: | :-------: |
 | info|✅|
 | Premium List|✅|
@@ -235,11 +235,13 @@ Follow The Steps Below!
 * <a href="https://github.com/nurutomo"><img alt="GitHub" src="https://img.shields.io/badge/nurutomo%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
 * <a href="https://github.com/affisjunianto"><img alt="GitHub" src="https://img.shields.io/badge/affisjunianto%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
 * <img alt="GitHub" src="https://img.shields.io/badge/TEAM FXC7BOT%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
+* * <a href="https://github.com/Fxc7"><img alt="GitHub" src="https://img.shields.io/badge/affisjunianto%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
+* <img alt="GitHub" src="https://img.shields.io/badge/TEAM FXC7BOT%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
 
 
 
-## Group
+## OWNER CONTACTS
 
-* <a href="https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="wa.me/919605243185"/></a>
 
 ---
